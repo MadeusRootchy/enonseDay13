@@ -1,0 +1,15 @@
+
+.setup {
+    background-color: #7fbbe0;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .label {
+    font-size: 24px;
+    margin: 0 20px;
+  }
+  
